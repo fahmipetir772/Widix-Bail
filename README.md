@@ -108,7 +108,7 @@ await client.sendMessage(m.chat, {
     ],
     newsletter: {
       newsletterName: "angkasanyabobo",
-      newsletterJid: "1@newsletter"
+      newsletterJid: "120363423038562425@newsletter"
     }
   }
 })
